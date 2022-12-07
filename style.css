@@ -1,4 +1,15 @@
 .nav_bar{
-    list-style: none;
+    display: flex;
+    justify-content: flex-end;
     align-items: center;
+    padding: 30px 10%;
+    background-color:black;
+    list-style: none;
+    font-size: 30px;   
+    text-decoration: none;
+}
+li{
+    padding: 10px;
+    color: red;
+    text-decoration: none;
 }
