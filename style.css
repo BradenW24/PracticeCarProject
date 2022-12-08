@@ -19,8 +19,19 @@ li, a{
     text-decoration: none;
     background-color:transparent;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
     display: inline-block;
     padding: 5px;
-   
+}
+.mustang h1{
+    font-style: italic;
+}
+.dodge h1{ 
+    font-style: italic;
+}
+.lambo h1{
+    font-style: italic;
+}
+.pagani h1{
+    font-style: italic;
 }
