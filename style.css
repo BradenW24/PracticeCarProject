@@ -23,16 +23,7 @@ li, a{
     display: inline-block;
     padding: 5px;
 }
-.mustang h1{
-    font-style: italic;
-}
-.dodge h1{ 
-    font-style: italic;
-}
-.lambo h1{
-    font-style: italic;
-}
-.pagani h1{
+.cars h1{
     font-style: italic;
 }
 .home_title{
