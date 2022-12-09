@@ -35,7 +35,14 @@ li, a{
 .pagani h1{
     font-style: italic;
 }
-#home_title{
+.home_title{
     text-align: center;
     font: bold;
+}
+hr{
+    color: red;
+    background-color: red;
+}
+.nav_bar li a:hover{
+    color: grey; 
 }
